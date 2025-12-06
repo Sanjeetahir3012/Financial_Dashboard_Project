@@ -36,7 +36,7 @@
 - [Dataset](https://github.com/Sanjeetahir3012/Financial_Dashboard_Project/blob/main/Financial_Dashboard_Cleaned_Dataset.xlsx)
 - [Images](https://github.com/Sanjeetahir3012/Financial_Dashboard_Project/blob/main/Financial_Dashboard_Screenshot.png)
 
-  ## **Outcome**
+## **Outcome**
 
   This dashboard allows businesses to:
 - Identify overspending departments 

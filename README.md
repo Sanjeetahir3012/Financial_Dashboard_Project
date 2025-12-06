@@ -31,7 +31,7 @@
 - Visualizations: Pie Chart, Line Chart, KPI Cards, Slicers
 
 ## **Project Structure**
-- Financial_Dashboard:<ahref"https://github.com/Sanjeetahir3012/Financial_Dashboard_Project/blob/main/FANANCIAL_DASHBOARD_PROJECT.pbix"
-- Dataset:<ahref"https://github.com/Sanjeetahir3012/Financial_Dashboard_Project/blob/main/Financial_Dashboard_Cleaned_Dataset.xlsx"
-- Images:<ahref"https://github.com/Sanjeetahir3012/Financial_Dashboard_Project/blob/main/Financial_Dashboard_Screenshot.png"
+- [Financial_Dashboard](https://github.com/Sanjeetahir3012/Financial_Dashboard_Project/blob/main/FANANCIAL_DASHBOARD_PROJECT.pbix)
+- [Dataset](https://github.com/Sanjeetahir3012/Financial_Dashboard_Project/blob/main/Financial_Dashboard_Cleaned_Dataset.xlsx)
+- [Images](https://github.com/Sanjeetahir3012/Financial_Dashboard_Project/blob/main/Financial_Dashboard_Screenshot.png)
 

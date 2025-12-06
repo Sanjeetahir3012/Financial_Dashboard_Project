@@ -1,4 +1,4 @@
-# **Financial Dashboard – Budget_Amount vs Actual_Amount Analysis**
+## **Financial Dashboard – Budget_Amount vs Actual_Amount Analysis**
 
 - This project presents an interactive Financial Dashboard built in Power BI to analyze department-wise Budget Amount, Actual Amount, Variance, and Budget
   Utilization%.The dashboard helps stakeholders quickly identify overspending, savings, and overall financial performance.

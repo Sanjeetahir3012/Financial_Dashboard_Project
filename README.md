@@ -1,11 +1,11 @@
 # **Financial Dashboard – Budget_Amount vs Actual_Amount Analysis**
 
 -This project presents an interactive Financial Dashboard built in Power BI to analyze department-wise Budget Amount, Actual Amount, Variance, and Budget Utilization%.
--The dashboard helps stakeholders quickly identify overspending, savings, and overall financial performance.
+  The dashboard helps stakeholders quickly identify overspending, savings, and overall financial performance.
 
 # **Objective**
 
--To provide a clear and interactive view of organizational financial performance, helping stakeholders identify budget deviations, overspending, savings, and overall   departmental performance for better decision-making.
+-To provide a clear and interactive view of organizational financial performance, helping stakeholders identify budget deviations, overspending, savings, and overall    departmental performance for better decision-making.
 
 # **Key Insights**
 
@@ -25,7 +25,7 @@
 
 # **Tools & Technologies**
 
--Power BI Desktop
+- Power BI Desktop
 -Data Modeling & Data Cleaning
 -DAX Measures (Variance%, Budget Utilization%)
 -Visualizations: Pie Chart, Line Chart, KPI Cards, Slicers

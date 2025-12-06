@@ -27,7 +27,7 @@
 
 - Power BI Desktop
 - Data Modeling & Data Cleaning
-- DAX Measures (Variance%, Budget Utilization%)
+- DAX Measures (Saving, Average Budget Utilization%)
 - Visualizations: Pie Chart, Line Chart, KPI Cards, Slicers
 
 # **Project Structure**
